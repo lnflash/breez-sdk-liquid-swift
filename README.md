@@ -1,4 +1,4 @@
-# Breez Liquid SDK — Swift Bindings
+# Breez Liquid SDK: Swift Bindings
 
 The [Breez Liquid SDK](https://github.com/breez/breez-sdk-liquid) enables mobile developers to integrate Liquid into their apps with a very shallow learning curve. More information can be found here: [breez/breez-sdk-liquid](https://github.com/breez/breez-sdk-liquid)
 
